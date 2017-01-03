@@ -1,7 +1,7 @@
 # Site settings
 title: bmann
 email: boris@bmann.ca
-description: > Experimenting with P2P web hosting with Dat and Beaker Browser. Visit dat://bmann.ca
+description: "Experimenting with P2P web hosting with Dat and Beaker Browser. Visit dat://bmann.ca"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://bmann.ca" # the base hostname & protocol for your site
 twitter_username: bmann
